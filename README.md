@@ -7,6 +7,6 @@ The number of infected people in the COVID-19 in Japane between 4/1/2020 to 3/31
 
 program means
 
-  Unit root test
-  SARIMA
-  Residual test
+Unit root test;
+SARIMA;
+Residual test;
